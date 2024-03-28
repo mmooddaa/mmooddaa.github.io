@@ -24,3 +24,5 @@ I am a Postdoctoral Fellow at the Weatherhead Center for International Affairs a
 
 2. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/fed-survey-20240215.pdf)** (Under review) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
 
+3. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
+
