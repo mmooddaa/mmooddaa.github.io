@@ -10,8 +10,8 @@ I am a Postdoctoral Fellow at the Weatherhead Center for International Affairs a
 
 ## Published Papers
 
-1. **[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention.](/assets/papers/Acorn_Allen_2023_Spillover.pdf)** (Accepted, *International Studies Quarterly*)
-(with [Elizabeth Acorn](http://www.elizabethacorn.com)) 
+1. **[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention.](https://doi.org/10.1093/isq/sqae071)** 2024. *International Studies Quarterly* 68(2).
+(with [Elizabeth Acorn](http://www.elizabethacorn.com)) <br> [[Preprint](/assets/papers/Acorn_Allen_2023_Spillover.pdf)]
 
 2. **[Unbundling the State: Legal Development in an Era of Global, Private Governance.](https://doi.org/10.1017/S0020818323000218)** 2023. *International Organization* 77(4): 754-788. <br> [[Replication Materials](https://doi.org/10.7910/DVN/GSVW3C)] [[Preprint](/assets/papers/MAllen-unbundling-20230911.pdf)] 
 
@@ -25,4 +25,6 @@ I am a Postdoctoral Fellow at the Weatherhead Center for International Affairs a
 2. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/fed-survey-20240215.pdf)** (Under review) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
 
 3. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
+
+
 
