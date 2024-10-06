@@ -4,9 +4,8 @@ layout: homepage
 
 Welcome!
 
-I am a Postdoctoral Fellow at the Weatherhead Center for International Affairs and Department of Government at [Harvard University](https://www.gov.harvard.edu/). My research interests span international political economy, international institutions, and law, with a focus on the politics of global capitalism. I study how the growth of private authority influences domestic legal development and the power of countries to regulate foreign commerce. I also have ongoing research projects in related areas including transnational anti-corruption efforts and global competition law. 
 
-I was previously a Postdoctoral Associate at Yale University and I hold a PhD in Government from Cornell University. Beginning in September 2024, I will be an Assistant Professor in the Department of Political Science at Stanford University.
+I am an Assistant Professor in the Department of Political Science at [Stanford University](https://politicalscience.stanford.edu/). My research interests span international political economy, international institutions, and law, with a focus on the politics of global capitalism. I study how the growth of private authority influences domestic legal development and the power of countries to regulate foreign commerce. I also have ongoing research projects in related areas including transnational anti-corruption efforts and global competition law. I hold a PhD in Government from Cornell University and I have previously held postdoctoral positions at Yale University and Harvard University.
 
 
 
@@ -24,7 +23,7 @@ I was previously a Postdoctoral Associate at Yale University and I hold a PhD in
 1. **[Democracy, Inequality, and Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)** (Revise & resubmit, *Journal of Politics*) <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
 
-2. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/fed-survey-20240215.pdf)** (Under review) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
+2. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Under review) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
 
 3. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
 
