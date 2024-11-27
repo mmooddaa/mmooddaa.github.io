@@ -20,7 +20,7 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Working Papers
 
-1. **[Democracy, Inequality, and Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)** (Revise & resubmit, *Journal of Politics*) <br>
+1. **[Democracy, Inequality, and Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)** (Conditionally accepted, *Journal of Politics*) <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
 
 2. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Under review) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
