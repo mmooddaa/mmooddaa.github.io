@@ -11,21 +11,21 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Published Papers
 
-1. **[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention.](https://doi.org/10.1093/isq/sqae071)** 2024. *International Studies Quarterly* 68(2).
+4. **[Democracy, Inequality, and Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)** (Forthcoming, *Journal of Politics*) <br>
+(with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
+
+3. **[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention.](https://doi.org/10.1093/isq/sqae071)** 2024. *International Studies Quarterly* 68(2).
 (with [Elizabeth Acorn](http://www.elizabethacorn.com)) <br> [[Preprint](/assets/papers/Acorn_Allen_2023_Spillover.pdf)]
 
 2. **[Unbundling the State: Legal Development in an Era of Global, Private Governance.](https://doi.org/10.1017/S0020818323000218)** 2023. *International Organization* 77(4): 754-788. <br> [[Replication Materials](https://doi.org/10.7910/DVN/GSVW3C)] [[Preprint](/assets/papers/MAllen-unbundling-20230911.pdf)] 
 
-3. **[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](https://doi.org/10.1093/isr/viac018)** 2022. *International Studies Review* 24(2). (with [Kenneth Scheve](https://scheve-research.org/)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)] 
+1. **[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](https://doi.org/10.1093/isr/viac018)** 2022. *International Studies Review* 24(2). (with [Kenneth Scheve](https://scheve-research.org/)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)] 
 
 ## Working Papers
 
-1. **[Democracy, Inequality, and Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)** (Conditionally accepted, *Journal of Politics*) <br>
-(with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
+1. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Under review) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
 
-2. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Under review) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
-
-3. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
+2. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
 
 
 
