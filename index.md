@@ -11,8 +11,8 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Published Papers
 
-4. **[Democracy, Inequality, and Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)** (Forthcoming, *Journal of Politics*) <br>
-(with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/))
+4. **[Democracy, Inequality, and Antitrust](https://doi.org/10.1086/736023)** (Forthcoming, *Journal of Politics*) <br>
+(with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/)) <br> [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GFENDZ)] [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)]
 
 3. **[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention.](https://doi.org/10.1093/isq/sqae071)** 2024. *International Studies Quarterly* 68(2).
 (with [Elizabeth Acorn](http://www.elizabethacorn.com)) <br> [[Preprint](/assets/papers/Acorn_Allen_2023_Spillover.pdf)]
@@ -23,9 +23,9 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Working Papers
 
-2. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Revise & resubmit, *Review of International Organizations*) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
+1. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Revise & resubmit, *Review of International Organizations*) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Preregistration Materials](https://osf.io/axq5c/)]
 
-3. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
+2. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
 
 
 
