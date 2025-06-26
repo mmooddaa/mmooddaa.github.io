@@ -11,6 +11,8 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Published Papers
 
+1. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Accepted, *Review of International Organizations*) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/NON9N3)] [[Preregistration Materials](https://osf.io/axq5c/)]
+
 4. **[Democracy, Inequality, and Antitrust](https://doi.org/10.1086/736023)** (Forthcoming, *Journal of Politics*) <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/)) <br> [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GFENDZ)] [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)]
 
@@ -22,8 +24,6 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 1. **[Sustaining Capitalism and Democracy: Lessons from Global Competition Policy.](https://doi.org/10.1093/isr/viac018)** 2022. *International Studies Review* 24(2). (with [Kenneth Scheve](https://scheve-research.org/)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/QCLWEM)] 
 
 ## Working Papers
-
-1. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Accepted, *Review of International Organizations*) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/NON9N3)] [[Preregistration Materials](https://osf.io/axq5c/)]
 
 2. **[Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?](/assets/papers/MAllen-icasub-20220927.pdf)**
 
