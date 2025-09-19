@@ -11,7 +11,7 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Published Papers
 
-1. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](/assets/papers/FedGlobalGov-20241006.pdf)** (Accepted, *Review of International Organizations*) (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/NON9N3)] [[Preregistration Materials](https://osf.io/axq5c/)]
+5. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](https://link.springer.com/article/10.1007/s11558-025-09603-5)** 2025. *Review of International Organizations* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/NON9N3)] [[Preregistration Materials](https://osf.io/axq5c/)] [[Preprint](/assets/papers/FedGlobalGov-20241006.pdf)]
 
 4. **[Democracy, Inequality, and Antitrust](https://doi.org/10.1086/736023)** (Forthcoming, *Journal of Politics*) <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/)) <br> [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GFENDZ)] [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)]
