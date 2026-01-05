@@ -11,10 +11,10 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Published Papers
 
-5. **[Democracy, Inequality, and Antitrust](https://doi.org/10.1086/736023)** 2026. *Journal of Politics*) 88(1): 334-347. <br>
+5. **[Democracy, Inequality, and Antitrust.](https://doi.org/10.1086/736023)** 2026. *Journal of Politics* 88(1): 334-347. <br>
 (with [Kenneth Scheve](https://scheve-research.org/) and [David Stasavage](https://stasavage.com/)) <br> [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GFENDZ)] [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358176)]
 
-4. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor](https://link.springer.com/article/10.1007/s11558-025-09603-5)** 2026. *Review of International Organizations* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/NON9N3)] [[Preregistration Materials](https://osf.io/axq5c/)] [[Preprint](/assets/papers/FedGlobalGov-20241006.pdf)]
+4. **[Thinking Locally, Acting Globally: The Domestic Legitimacy of the US Federal Reserve as a Global Governor.](https://link.springer.com/article/10.1007/s11558-025-09603-5)** 2025. *Review of International Organizations* (with [Aditi Sahasrabuddhe](https://aditisahasrabuddhe.com)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/NON9N3)] [[Preregistration Materials](https://osf.io/axq5c/)] [[Preprint](/assets/papers/FedGlobalGov-20241006.pdf)]
 
 3. **[Transnational Legal Spillover? A Reappraisal of the OECD Anti-Bribery Convention.](https://doi.org/10.1093/isq/sqae071)** 2024. *International Studies Quarterly* 68(2).
 (with [Elizabeth Acorn](http://www.elizabethacorn.com)) <br> [[Replication Materials](https://doi.org/10.7910/DVN/TJRLRZ)] [[Preprint](/assets/papers/Acorn_Allen_2023_Spillover.pdf)]
