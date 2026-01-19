@@ -25,13 +25,13 @@ I am an Assistant Professor in the Department of Political Science at [Stanford 
 
 ## Working Papers
 
-1. **Fragmenting Commercial Governance: The Political Economy of Place-Based Industrial Policy in Africa** (with [Zoe Ge](https://wp.nyu.edu/zoege/))
+1. *Fragmenting Commercial Governance: The Political Economy of Place-Based Industrial Policy in Africa* (with [Zoe Ge](https://wp.nyu.edu/zoege/))
 
-2. **Buying Right: The Partisan Consequences of Retail Consolidation in the United States** (with [Gautam Nair](https://www.hks.harvard.edu/faculty/gautam-nair))
+2. *Buying Right: The Partisan Consequences of Retail Consolidation in the United States* (with [Gautam Nair](https://www.hks.harvard.edu/faculty/gautam-nair))
 
-3. **Global Law and Public Trust in Domestic Institutions: Enforcing US Anti-Bribery Laws Outside the US** (with [Elizabeth Acorn](http://www.elizabethacorn.com))
+3. *Global Law and Public Trust in Domestic Institutions: Enforcing US Anti-Bribery Laws Outside the US* (with [Elizabeth Acorn](http://www.elizabethacorn.com))
 
-4. **Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?**
+4. *Is International Commercial Arbitration a Substitute for Domestic Legal Institutions?*
 
 
 
